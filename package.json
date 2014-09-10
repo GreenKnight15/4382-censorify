@@ -1,0 +1,15 @@
+{
+  "name": "jamesrittercensorify",
+  "version": "1.0.4",
+  "description": "Censors Text.",
+  "main": "censortext.js",
+  "author": "James Ritter <jamesritter15@gmail.com>",
+  "repository":
+  {
+    "type": "git"
+    "url": "https://github.com/GreenKnight15/4382-censorify"
+  },
+  "keywords": [  "james", "ritter" , "censor",  "words", "WTAMU"],
+  "dependencies": {},
+  "engines": { "node": "*" }
+}
